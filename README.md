@@ -1,4 +1,18 @@
 # grocery_store_ui
+![Simulator Screen Shot - iPhone 13 - 2022-06-21 at 23 37 44](https://user-images.githubusercontent.com/65462971/174869143-a315dc4f-f79f-4f06-92ef-6a26d18e7cf7.png)
+
+
+
+
+
+![Simulator Screen Shot - iPhone 13 - 2022-06-21 at 23 37 53](https://user-images.githubusercontent.com/65462971/174869155-e397e967-614c-4934-b299-3ef424379dce.png)
+
+
+
+
+
+
+![Simulator Screen Shot - iPhone 13 - 2022-06-21 at 23 38 10](https://user-images.githubusercontent.com/65462971/174869158-19d29a4d-021f-4ba5-a02c-988cebc4e042.png)
 
 A new Flutter project.
 
